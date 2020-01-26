@@ -1,1 +1,1 @@
-# My Hometasks from Artezio-Academy course. 
+# My hometasks from Artezio-Academy course. 

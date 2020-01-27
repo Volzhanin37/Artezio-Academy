@@ -4,4 +4,4 @@ def sq_of_odd(X):
         print(n*n, end=' ')
         num_of_n += 1
     print()     
-    print(f"Нечетных чисел в интервале [0:{X}]:", num_of_n)
+    print(f"Нечетных чисел в интервале [0:{X}]: {num_of_n}")
